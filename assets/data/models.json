@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15",
+        "category": 1
+    },
+    {
+        "id": 2,
+        "name": "iPhone 15 Plus",
+        "category": 1
+    },
+    {
+        "id": 3,
+        "name": "iPhone 15 Pro",
+        "category": 1
+    },
+    {
+        "id": 4,
+        "name": "iPhone 14",
+        "category": 1
+    },
+    {
+        "id": 5,
+        "name": "iPhone 14 Plus",
+        "category": 1
+    },
+    {
+        "id": 6,
+        "name": "iPhone 14 Pro",
+        "category": 1
+    },
+    {
+        "id": 7,
+        "name": "iPhone 13",
+        "category": 1
+    },
+    {
+        "id": 8,
+        "name": "iPhone 13 Pro",
+        "category": 1
+    },
+    {
+        "id": 9,
+        "name": "iPhone 13 Mini",
+        "category": 1
+    },
+    {
+        "id": 10,
+        "name": "iPhone 12",
+        "category": 1
+    },
+    {
+        "id": 11,
+        "name": "iPhone 12 Pro",
+        "category": 1
+    },
+    {
+        "id": 12,
+        "name": "iPhone 12 Mini",
+        "category": 1
+    },
+    {
+        "id": 13,
+        "name": "iPhone 11",
+        "category": 1
+    },
+    {
+        "id": 14,
+        "name": "iPhone 11 Pro",
+        "category": 1
+    },
+    {
+        "id": 15,
+        "name": "iPhone XR",
+        "category": 1
+    },
+    {
+        "id": 16,
+        "name": "iPhone XS",
+        "category": 1
+    },
+    {
+        "id": 17,
+        "name": "Samsung Galaxy S23",
+        "category": 2
+    },
+    {
+        "id": 18,
+        "name": "Samsung Galaxy S23 Plus",
+        "category": 2
+    },
+    {
+        "id": 19,
+        "name": "Samsung Galaxy S23 Ultra",
+        "category": 2
+    },
+    {
+        "id": 20,
+        "name": "Samsung Galaxy S22",
+        "category": 2
+    },
+    {
+        "id": 21,
+        "name": "Samsung Galaxy S22 Plus",
+        "category": 2
+    },
+    {
+        "id": 22,
+        "name": "Samsung Galaxy S22 Ultra",
+        "category": 2
+    },
+    {
+        "id": 23,
+        "name": "Samsung Galaxy S21",
+        "category": 2
+    },
+    {
+        "id": 24,
+        "name": "Samsung Galaxy S21 FE",
+        "category": 2
+    },
+    {
+        "id": 25,
+        "name": "Samsung Galaxy S21 Plus",
+        "category": 2
+    },
+    {
+        "id": 26,
+        "name": "Samsung Galaxy S21 Ultra",
+        "category": 2
+    },
+    {
+        "id": 27,
+        "name": "Samsung Galaxy S20",
+        "category": 2
+    },
+    {
+        "id": 28,
+        "name": "Samsung Galaxy S20 FE",
+        "category": 2
+    },
+    {
+        "id": 29,
+        "name": "Samsung Galaxy S20 Plus",
+        "category": 2
+    },
+    {
+        "id": 30,
+        "name": "Samsung Galaxy S20 Ultra",
+        "category": 2
+    }
+]
